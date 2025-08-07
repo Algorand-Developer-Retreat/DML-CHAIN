@@ -28,8 +28,8 @@ Before setting up DML-Chain, ensure you have the following installed:
 - **Python** (v3.8 or higher)
 - **Git**
 - **AlgoKit CLI** (v2.0.0 or higher)
-- **MongoDB** (for ML model data storage)
-- **Jupyter Notebook** (optional, for running ML notebooks)
+- **MongoDB** (for storing client profile information)
+- **Jupyter Notebook** (for running ML model development notebooks)
 
 ### Installing AlgoKit
 
